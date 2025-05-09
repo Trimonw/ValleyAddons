@@ -37,7 +37,7 @@
 ## 📦 Installation
 
 1. Make sure you have [Chatriggers](https://chattriggers.com/) installed.  
-2. Download the latest release of Valley Addons from the [Releases](https://github.com/trimonw/valleyaddons/releases) page.  
+2. Download the latest release of Valley Addons from the [Releases](https://github.com/Trimonw/ValleyAddons/releases/tag/skyblock-dungeons-enhancer) page.  
 3. Extract this zip into your /config/ChatTriggers/modules folder.
 4. Launch Minecraft and enjoy!
 
