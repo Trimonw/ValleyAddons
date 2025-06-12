@@ -2,8 +2,6 @@
 
 **Valley Addons** is a Hypixel Skyblock mod designed to enhance your Dungeons experience. It is used by virtually all high level dungeon players, notably Hayacyaa, Tmoe, yarns, etc
 
-> ⚠️ _Any other download for this mod is most likely a rat! Be cautious_
-
 ---
 
 ## ✨ Features
